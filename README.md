@@ -1,3 +1,10 @@
+Version fork disclaimer:  
+**This version is only for personal use, which obeys the lincence from original repository.**  
+2022/10/7  --  Recomplied the project using IDA 7.5  
+![image](https://user-images.githubusercontent.com/20926583/194514999-6ff74ffa-0280-448d-8903-104a76c8ffe8.png)
+
+
+-------  
 <pre>
  _   _          ______                _____           _     __   __      _                     
 | | | |         | ___ \              /  __ \         | |    \ \ / /     | |                    
